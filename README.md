@@ -30,7 +30,7 @@ Feeling a lot more comfortable now, creating designs on a page. I was expecting 
 
 Hosted [Live Site](https://nickodxyz.github.io/FM-chat-app-css-illustration-master/)
 
-Frontend Mentor [Solution Page]()
+Frontend Mentor [Solution Page](https://www.frontendmentor.io/solutions/chat-app-css-illustration-css-art-UTpgwBunG)
 
 <br>
 
