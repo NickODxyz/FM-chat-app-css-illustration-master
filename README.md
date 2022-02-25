@@ -1,6 +1,6 @@
 <h1 align="center">Frontend Mentor - Chat App CSS Illustration Solution</h1>
 
-![Alt Text Here]()
+![Preview](https://github.com/NickODxyz/FM-chat-app-css-illustration-master/blob/main/Preview.JPG)
 
 <br>
 
@@ -28,7 +28,7 @@ Feeling a lot more comfortable now, creating designs on a page. I was expecting 
 
 ## Site links
 
-Hosted [Live Site]()
+Hosted [Live Site](https://nickodxyz.github.io/FM-chat-app-css-illustration-master/)
 
 Frontend Mentor [Solution Page]()
 
